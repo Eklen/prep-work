@@ -4,6 +4,8 @@
 # Difficulty: easy.
 
 def reverse(string)
+  for string.length do
+    print string[-1]
 end
 
 # These are tests to check that your code is working. After writing
